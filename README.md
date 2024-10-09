@@ -14,19 +14,6 @@ notebooks/: Jupyter notebooks used for exploratory data analysis and model devel
 src/: Python scripts for data cleaning, feature engineering, and analysis.
 output/: Processed data and analysis results.
 README.md: Project documentation (this file).
-Installation
-To set up the project locally, follow these steps:
-
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/food-delivery-analysis.git
-Install dependencies:
-Run the Jupyter notebook:
-
-jupyter notebook
-Open Food Delivery Cost and Profitability Analysis.ipynb to get started.
 
 Usage
 The project is structured to allow flexibility in each analytical stage. To perform the analysis:
